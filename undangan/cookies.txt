@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+glanz.starkethemes.com	TRUE	/	FALSE	1999999999	PHPSESSID	28584a02a1b4dcbef7fa84c4f40f19b8
+glanz.starkethemes.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+glanz.starkethemes.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	de864aa8b8b1b8788a98ab651637f7d8
+glanz.starkethemes.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_3995df484ae4574e862be008c72d3506	208273a2f689d41da06c3d1060ff600e%7C%7C1637584826%7C%7C1637581226%7C%7C3658fc95b7580164519c4b02f8b0db35
+
