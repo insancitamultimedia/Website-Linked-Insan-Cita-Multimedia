@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /fortitude/
 
 Sitemap: https://icm.my.id/sitemap.xml
